@@ -20,3 +20,7 @@ Request column index: 6
 ```
 
 Then the script will go through day_00[1-6].csv file in each of the above folders and extract the **(6-2) = 4th columns** value from each csv file
+
+
+
+
